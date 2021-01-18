@@ -1,0 +1,4 @@
+factory,produce1,produce2,produce3,produce4
+1,,2,,4
+2,1,2,3,
+3,,2,3,4
